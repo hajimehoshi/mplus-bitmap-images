@@ -4,11 +4,11 @@
 
 ## Sources
 
-### english.png
+### latin.png (U+0000 - U+00FF)
 
 mplus_f12r.bdf
 
-### japanese-*.png
+### bmp-*.png (U+0100 - U+FFFF)
 
 mplus_j12r.bdf
 
